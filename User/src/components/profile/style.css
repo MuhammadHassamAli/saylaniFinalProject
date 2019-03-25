@@ -1,0 +1,12 @@
+.jr-profile-banner::before{
+    background-color: 'white',
+}
+
+.jr-profile-banner {
+    margin: 0px;
+}
+
+.jr-card-full {
+    padding: 30px;
+    margin: 30px;
+}
